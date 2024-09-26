@@ -98,3 +98,4 @@ const config = {
 } satisfies Config
 
 export default config
+// Root Layout and Protected Routes2
