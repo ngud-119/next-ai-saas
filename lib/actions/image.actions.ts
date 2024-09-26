@@ -183,3 +183,4 @@ export async function getUserImages({
     handleError(error);
   };
 };
+// Root Layout and Protected Routes8
