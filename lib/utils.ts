@@ -155,3 +155,4 @@ export const deepMergeObjects = (obj1: any, obj2: any) => {
 
   return output;
 };
+// Root Layout and Protected Routes7
