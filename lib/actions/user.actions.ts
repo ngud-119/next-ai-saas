@@ -91,3 +91,4 @@ export async function updateCredits(userId: string, creditFee: number) {
     handleError(error);
   }
 }
+// Root Layout and Protected Routes10
